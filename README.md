@@ -1,6 +1,8 @@
 # Teacher-effectiveness-score-estimation-using-student-outcomes-and-class-size
+
 🎓 Teacher Effectiveness Score Estimation
 Using Student Outcomes and Class Size
+
 📌 Overview
 
 This project focuses on estimating teacher effectiveness using student outcomes and classroom-related factors.
